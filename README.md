@@ -1,8 +1,9 @@
-I have attempted to make a cloned version of good looking wesbite only with html and css. The website i choose is yellowco which is originally made from squarespace while i cloned it only using to files:
+I have attempted to make a cloned version of good-looking Website only with HTML and CSS. The website I chose is Yellowco which was originally made from Squarespace. I cloned it minimizing the CSS as much as i could using only two files:
 1-index.html
 2-styles.css
 
-Below is the link of original website: 
+Below is the link to the original website: 
 https://yellowco.co/
 
-Here is the link to my cloned version:
+Here is the cloned version:
+https://fk835.github.io/yellowco-clone/
